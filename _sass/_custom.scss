@@ -55,7 +55,7 @@ body {
 
 .content {
   margin-top: 1em;
-	line-height: 1.5;
+	line-height: 1.8;
 }
 
 .content img {
@@ -91,7 +91,7 @@ section {
 
 .sidebar {
 	background-color: $gray-lighter;
-  font-size: 15px;
+  font-size: 20px;
   padding-bottom: 10px;
 }
 
@@ -113,7 +113,17 @@ section {
 		text-decoration: none;
 		color: $white;
 	}
-  .pagination-section {
+
+.sidebar li.active {
+	background-color: $white;
+}
+
+.sidebar li.active a:hover {
+	color: cadetblue;
+}
+
+	
+.pagination-section {
     margin: 1em 0;
   }
 }
