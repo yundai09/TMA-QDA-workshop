@@ -5,8 +5,6 @@ body {
   }
 }
 
-h4 {font-size: 2em}
-
 @include media-breakpoint-up(md) {
   .navbar {
     //line-height: 3;
@@ -115,14 +113,6 @@ section {
 		text-decoration: none;
 		color: $white;
 	}
-
-.sidebar li.active {
-	background-color: $white;
-}
-
-.sidebar li.active a:hover {
-	color: cadetblue;
-}
 
 	
 .pagination-section {
