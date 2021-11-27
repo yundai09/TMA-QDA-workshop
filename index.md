@@ -3,7 +3,10 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
+With the same texts, this workshop applies both text mining/analytics (TM/A) and qualitative data analysis (QDA) approaches to examine the documents on vaccination expectations in a sample of U.S. universities across "blue" and "red" states. The workshop will walk attendees through the entire workflow of a research project and showcase a mix-mode approach to handling texts. 
+
+This workshop consists of two parts. The first part introduces text mining/analytics using a web-interfacing tool, Voyant. The second part introduces qualitative data analysis using an open source software, Taguette. The two sessions, held back-to-back, compare and contrast the TM/A and QDA approaches towards the same materials through demonstration and hands-on exercises. No prior knowledge of either method is required.
+
 * **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
 * **[Introduction](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
 * **[Workflow](/modules/customize/favicon)** - Add some (optional) finishing touches
