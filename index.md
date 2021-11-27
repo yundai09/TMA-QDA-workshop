@@ -19,5 +19,5 @@ This workshop consists of two parts. The first part introduces text mining/analy
 <br> 
 
 #### Contact
-Yun Dai (yun.dai@nyu.edu), Data Services Librarian, NYU Shanghai
+Yun Dai (yun.dai@nyu.edu), Data Services Librarian, NYU Shanghai <br>
 Fan Luo (fan.luo@nyu.edu), Digital Scholarship Manager, NYU Shanghai
