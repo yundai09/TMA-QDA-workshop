@@ -1,8 +1,8 @@
 ---
-title: Getting Started with Taguette for Qualitative Research
+title: Getting Started with Taguette
 ---
 
-## Getting Started with Taguette
+## Getting Started with Taguette for Qualitative Research
 
 xxx
 
