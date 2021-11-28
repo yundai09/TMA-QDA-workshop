@@ -1,5 +1,5 @@
 ---
-title: Navigating Voyant for exploratory text analysis
+title: Navigating Voyant
 ---
 
 ## Navigating Voyant for exploratory text analysis
