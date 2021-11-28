@@ -1,5 +1,5 @@
 ---
-title: Understanding the Course Template
+title: Documents
 ---
 
 ## Understanding the Course Template
