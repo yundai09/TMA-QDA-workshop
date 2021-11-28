@@ -1,5 +1,5 @@
 ---
-title: Getting Started with GitHub
+title: Navigating Voyant for exploratory text analysis
 ---
 
 ## Navigating Voyant for exploratory text analysis
