@@ -5,7 +5,7 @@ title: Documents
 ## Voyant for text exploration
 <br>
 
-<center><img src="https://github.com/yundai09/course-in-a-box/blob/gh-pages/img/voyant.png" alt="Screenshot of Voyant" width="75%"/></center>
+<center><img src="./img/voyant.png" alt="Screenshot of Voyant" width="75%"/></center>
 
 <br>
 
