@@ -19,7 +19,7 @@ Use [this link](https://voyant-tools.org/?corpus=2faa85da404d062a74f55b0103fe74b
 
 <br>
 
-<center><img src="/img/voyant.png" alt="Screenshot of Voyant with documents loaded" width="75%"/></center>
+<center><img src="/img/voyant_texts.png" alt="Screenshot of Voyant with documents loaded" width="75%"/></center>
 
 
 
