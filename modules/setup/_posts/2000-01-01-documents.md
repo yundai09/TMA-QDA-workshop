@@ -7,7 +7,7 @@ title: Documents
 
 <center><img src="/img/voyant.png" alt="Screenshot of Voyant" width="75%"/></center>
 
-![Screenshot of Voyant](/img/voyant.png)
+![Voyant](/img/voyant.png)
 
 <br>
 
