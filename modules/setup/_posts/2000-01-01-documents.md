@@ -5,7 +5,7 @@ title: Documents
 ## Understanding the Course Template
 <br>
 
-<center><img src="/img/Voyant.png" alt="Screenshot of the course template in GitHub" width="75%"/></center>
+<center><img src="/img/voyant.png" alt="Screenshot of Voyant" width="75%"/></center>
 
 <br>
 
