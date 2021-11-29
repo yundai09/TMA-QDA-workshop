@@ -2,17 +2,24 @@
 title: Documents
 ---
 
-## Understanding the Course Template
+## Voyant for text exploration
 <br>
 
 <center><img src="/img/voyant.png" alt="Screenshot of Voyant" width="75%"/></center>
 
 <br>
 
-Once you’ve forked the course, you’ll see the course's guts as a list of folders and file names. This list contains all of the learning content for the course as well as the code that holds it all together. This guide will always tell you exactly where to look to update different parts of your course, so you don’t need to read or memorize this section in order to proceed.
+[Voyant Tools](https://voyant-tools.org) is a web-based reading and analysis environment for digital texts. It is a scholarly project that is designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public.
 
 <br>
 
-#### Directory layout explanation
+## Let's get started with Voyant!
 
-xxx
+Use [this link](https://voyant-tools.org/?corpus=2faa85da404d062a74f55b0103fe74b3) to explore our texts. The documents have been uploaded to Voyant.
+
+<br>
+
+<center><img src="/img/voyant.png" alt="Screenshot of Voyant with documents loaded" width="75%"/></center>
+
+
+
