@@ -4,6 +4,8 @@ title: Getting Started with Taguette
 
 ## Getting Started with Taguette for Qualitative Research
 
+<br> 
+
 Taguette is a free and open-source tool for qualitative research. Taguette allows us to import our research materials, highlight and tag quotes, and export the results from Taguette.
 
 <br> 
@@ -21,11 +23,11 @@ Once we have downloaded and installed Taguette on our computer, double-click the
 
 Let's create a new project. 
 
-<center><img src="/img/1_create_new_project.png" alt="Screenshot of Voyant with documents loaded" width="75%"/></center>
+<center><img src="/img/1_create_new_project.png" alt="create a new project" width="75%"/></center>
 
 We named it *vaccination expectations*, but you can always change it to something else.
 
-<center><img src="/img/2_new_project_name.png" alt="Screenshot of Voyant with documents loaded" width="75%"/></center>
+<center><img src="/img/2_new_project_name.png" alt="name the project" width="75%"/></center>
 
 If you have exported a project before, you can also import that project directly and continue to work on it.
 
