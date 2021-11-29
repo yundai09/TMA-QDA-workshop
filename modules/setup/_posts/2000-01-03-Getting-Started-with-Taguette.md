@@ -6,7 +6,7 @@ title: Getting Started with Taguette
 
 Taguette is a free and open-source tool for qualitative research. Taguette allows you to import your research materials, highlight and tag quotes, and export the results from Taguette.
 
-<br>
+
 
 ### Downloading and installing Taguette
 Taguette works on macOS, Windows, and Linux. Follow the guide to download and install Taguette for your operating system.
@@ -15,7 +15,7 @@ Taguette works on macOS, Windows, and Linux. Follow the guide to download and in
 
 ### Creating a project
 
-<br>
+
 
 <center><img src="/img/1_create_new_project.png" alt="Screenshot of Voyant with documents loaded" width="75%"/></center>
 
