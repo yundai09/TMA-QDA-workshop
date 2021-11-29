@@ -10,6 +10,8 @@ This guide focuses on editing your course directly through GitHub, which offers 
 
 <center><img src="/img/preview-changes.png" alt="screenshot of github's Preview Changes function" width="75%"/></center>
 
+<center><img src="https://www.library.ln.edu.hk/sites/default/files/images/research_support/copyright/cc_logo.jpg" alt="screenshot of github's Preview Changes function" width="75%"/></center>
+
 If you want to write your text in other software before bringing it into Course-in-a-Box, here are a few options to convert your formatting into Markdown before bringing it into Course-in-a-Box:
 * [GSuite Tool: Google Docs to Markdown](https://github.com/evbacher/gd2md-html/wiki#installing-docs-to-markdown)
 * [Microsoft Word to Markdown Converter](https://word2md.com/)
