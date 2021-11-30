@@ -8,6 +8,8 @@ First of all, a research project starts with a research question.
 
 Take some time to read those documents. Think about the questions you want to ask about these documents.
 
+<br>
+
 ## Quantitative? Qualitative?
 
 Then think about if your research questions are **quantitative** or **qualitative** in nature.
