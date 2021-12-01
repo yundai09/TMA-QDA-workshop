@@ -7,6 +7,8 @@ Are the texts we collected clear about vaccination requirements?  If not, we nee
 
 Have we collected everything we need? 
 
+...
+
 <br>
 
 ## Clean the data
