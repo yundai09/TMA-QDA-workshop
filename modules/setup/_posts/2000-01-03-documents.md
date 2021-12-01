@@ -2,7 +2,7 @@
 title: Documents
 ---
 
-## Text files
+## Workshop materials
 
 We will be using [these documents](https://github.com/yundai09/TMA-QDA-workshop/tree/gh-pages/documents) in this workshop.
 
