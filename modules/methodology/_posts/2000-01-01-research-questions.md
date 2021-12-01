@@ -4,7 +4,7 @@ title: Research Questions
 
 ## What is your research question?
 
-First of all, a research project starts with a research question. 
+A research project starts with a research question. 
 
 Take some time to read those documents. Think about the questions you want to ask about these documents.
 
