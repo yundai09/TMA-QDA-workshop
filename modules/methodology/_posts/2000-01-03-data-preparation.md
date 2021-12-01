@@ -17,3 +17,12 @@ We exported the web pages as PDF, after we removed the header, footer, styling, 
 Of course, in real world, this is going to be much more complicated.
 
 For instance, for text mining, ...
+
+<br>
+
+## It's not a linear process! 
+
+Refining the criteria.
+
+Repeating steps of collecting data, checking data and refining data.
+
