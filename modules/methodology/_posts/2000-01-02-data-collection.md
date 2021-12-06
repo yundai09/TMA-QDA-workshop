@@ -40,6 +40,6 @@ Therefore, we also collected information associated with each community message,
 
 These information could help us contextualize our analysis.
 
-<center><img src="https://shanghai.hosting.nyu.edu/data/workshops/17_doc_level_info.png" alt="document level info" width="75%"/></center>
+<center><img src="https://shanghai.hosting.nyu.edu/data/workshops/17_doc_level_info.png" alt="document level info" width="100%"/></center>
 
 
