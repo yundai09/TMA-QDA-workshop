@@ -18,12 +18,26 @@ Note: Among the top 50 universities, we only got 10 universities residing in "re
 
 ## Type of texts
 
+Type of texts is **community message**. 
+
+Other types of texts addressing vaccination expectations can be *vaccination FAQ8, usually on the webpages of the departmemts of health and wellness, and *news articles*.
+
+We focus on one single type of text to control for the effects from the type of documents on the expression of vaccination expectations.
+
 <br>
 
 ## Document level information
 
-unit of analysis
+One university can have more than one community messages because a university may separately send messages to students and employees, or update the previous document. The unit of analysis in this workshop is **document**, not university, which is each community message. 
 
-context
+Therefore, we also collected information associated with each community message, including 
 
-<br>
+* university name
+* global and national ranks of the university
+* city, county, state
+* political orientation
+* published date, retrieved date of the community message
+
+These information could help us contextualize our analysis.
+
+
