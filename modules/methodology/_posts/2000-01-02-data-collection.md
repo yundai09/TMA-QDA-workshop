@@ -40,4 +40,6 @@ Therefore, we also collected information associated with each community message,
 
 These information could help us contextualize our analysis.
 
+<center><img src="https://shanghai.hosting.nyu.edu/data/workshops/taguette.png" alt="create a new project" width="75%"/></center>
+
 
