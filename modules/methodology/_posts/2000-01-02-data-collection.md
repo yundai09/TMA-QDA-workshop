@@ -2,7 +2,19 @@
 title: Data Collection
 ---
 
+## Type of texts
+
+Vaccination expectations may be conveyed in various formats of texts. It could be *vaccination FAQs*, usually on the webpages of the departmemts of health and wellness, or *news articles*.
+
+We focus on one single type of text, **community message**, to control for the effects from the type of documents on the expression of vaccination expectations.
+
+Occasionally, when a community message is not clear enough about the university's vaccination expectation, we use additional text to validate our understanding (e.g. news article).
+
+<br>
+
 ## Sampling
+
+We take a sample from all community messages following the procedures below.
 
 **Sampling frame:** a list of U.S. universities from the Times Higher Education World University Rankings
 
@@ -13,16 +25,6 @@ title: Data Collection
 Note: Among the top 50 universities, we only got 10 universities residing in "red" states. Therefore, the sample is not balanced.
 
 **Sample size:** resulting number of universities to be investigated (20)
-
-<br>
-
-## Type of texts
-
-Type of texts is **community message**. 
-
-Other types of texts addressing vaccination expectations can be *vaccination FAQ8, usually on the webpages of the departmemts of health and wellness, and *news articles*.
-
-We focus on one single type of text to control for the effects from the type of documents on the expression of vaccination expectations.
 
 <br>
 
