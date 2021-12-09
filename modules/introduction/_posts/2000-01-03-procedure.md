@@ -2,7 +2,7 @@
 title: Workflow
 ---
 
-## Procedure
+## Workflow
 
 This workshop showcases the procedure of this project, as described below. 
 
