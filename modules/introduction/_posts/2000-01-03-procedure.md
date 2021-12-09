@@ -1,5 +1,5 @@
 ---
-title: Procedure
+title: Workflow
 ---
 
 ## Procedure
