@@ -7,7 +7,8 @@ title: Limitations
 <br>
 
 ### Data cleaning
-Data cleaning is probably more important for text analytics. We didn't do much (or anything) to clean our data before we feed them to Voyant. In real research, this step would be critical. 
+
+* Data cleaning is probably more important for text analytics. We didn't do much (or anything) to clean our data before we feed them to Voyant. In real research, this step of data cleaning and preprocessing would be critical. 
 
 <br>
 
@@ -35,5 +36,6 @@ Data cleaning is probably more important for text analytics. We didn't do much (
 <br>
 
 ### Approach and perspective
+
 * For QDA, we used a mixed method approach, which looked at our data through variables. This certainly is not the only way to study 
 
