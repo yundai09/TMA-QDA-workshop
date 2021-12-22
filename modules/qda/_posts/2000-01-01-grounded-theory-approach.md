@@ -58,3 +58,16 @@ The types of categories identified around the core phenomenon can be causal cond
 #### Selective coding
 
 The final step is selective coding to articulate a theory. Researchers connect the categories and develop hypotheses on relationships among the categories.
+
+<br>
+
+#### Memoing
+
+During coding, researchers may write down ideas about evolving theory throughout the process of open, axial, and selective coding.
+
+<br>
+
+### What's next?
+The theory generated from the above process may be tested later with quantitative data to determine if it can be generalized to a population. 
+
+Alternatively, the study may end at this point with the generation of a theory as the goal of the research.
