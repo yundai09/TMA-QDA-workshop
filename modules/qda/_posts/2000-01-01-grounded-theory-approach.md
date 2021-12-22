@@ -10,26 +10,28 @@ Following Creswell (2007, p. 64-67), the procedures for conducting grounded theo
 
 <br>
 
-### Grounded theory or not?
+### What perspective and approach to take?
 
-Think about if the grounded theory approach (or another approach) is suited to study the research problem.
+First, think about if a theory or an approach is suited to study the research problem. 
+
+In our case, we take the grounded theory approach to study vaccination expectations and intend to form an explanation of the causes and consequences of those various expectations.
 
 <br>
 
 ### Theoretical sampling
-The participants/documents are theoretically chosen to help the researcher form the theory. 
+In a grounded theory approach, the participants can be theoretically chosen to help the researcher form the theory. This is called *theoretical sampling*. 
 
-How many passes one makes to the field depends on whether the categories of information become saturated and whether the theory is elaborated in all of its complexity. This process of taking information from data collection and comparing it to emerging categories is called the constant comparative method of data analysis.
+We explained our sampling approach in the section *Methodology*. 
 
 <br>
 
 ### Data collection
 
-Data collection is a "zigzag" process: out to the field to gather information, into the office to analyze the data, back to the field to gather more information, into the office, and so forth. 
+Data collection evolves in a "zigzag" process: out to the field to gather information, into the office to analyze the data, back to the field to gather more information, into the office, and so forth. 
 
 The focus is on understanding how individuals experience the process and identifying the steps in the process.
 
-The point is to gather enough information to fully develop (or saturate) the model. 
+The goal is to gather enough information to fully elaborate a theory, when the categories of information become saturated.
 
 <br>
 
@@ -41,29 +43,18 @@ The analysis of the data proceeds in stages.
 
 #### Open coding
 
-In open coding, the
-researcher forms categories of information about the phenomenon being
-studied by segmenting information. Within each category, the investigator
-finds several properties, or subcategories, and looks for data to dimensionalize,
-or show the extreme possibilities on a continuum of, the property.
+Researchers begin with open coding to form major categories of information about the phenomenon being studied.
 
-The researcher begins with open coding, coding the data for its major categories of information. From this coding, axial coding emerges in which the researcher identifies one open coding category to focus on (called the "core" phenomenon), and then goes back to the data and create categories around this core phenomenon.
+<br>
 
-Strauss and Corbin (1990) prescribe the types of categories identified around the core phenomenon. They consist of causal conditions (what factors caused the core phenomenon), strategies (actions taken in response to the core phenomenon), contextual and intervening conditions (broad and specific situational factors that influence the strategies), and consequences (outcomes from using the strategies).
+#### Axial coding
+
+Next, researchers find several subcategories to focus on around the core phenomenon.
+
+The types of categories identified around the core phenomenon can be causal conditions (what factors caused the core phenomenon), strategies (actions taken in response to the core phenomenon), contextual and intervening conditions (broad and specific situational factors that influence the strategies), and consequences (outcomes from using the strategies).
 
 <br>
 
 #### Selective coding
 
-The final step, then, is selective coding, in which the researcher takes the model and develops propositions (or hypotheses) that interrelate the categories in the model or assembles a story that describes the interrelationship of categories in the model. This theory, developed by the researcher, is articulated toward the end of a study and can assume several forms, such as a narrative statement (Strauss & Corbin, 1990), a visual picture (Morrow & Smith, 1995), or a series of hypotheses or propositions.
-
-<br>
-
-#### Step 5
-
-<br>
-
-#### Step 6
-
-<br>
-
+The final step is selective coding to articulate a theory. Researchers connect the categories and develop hypotheses on relationships among the categories.
