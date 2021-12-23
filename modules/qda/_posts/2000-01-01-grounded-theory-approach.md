@@ -14,12 +14,12 @@ Following Creswell (2007, p. 64-67), the procedures for conducting grounded theo
 
 First, think about if a theory or an approach is suited to study the research problem. 
 
-In our case, we take the grounded theory approach to study vaccination expectations and intend to form an explanation of the causes and consequences of those various expectations.
+In our case, we take the grounded theory approach to study vaccination expectations of our sample of universities, which have all participated in a process in response to emergent situations in the COVID-19 pandemic and updated policies. The goal is to form an explanation of the causes and consequences of those various vaccination expectations.
 
 <br>
 
 ### Theoretical sampling
-In a grounded theory approach, the participants can be theoretically chosen to help the researcher form the theory. This is called *theoretical sampling*. 
+In a grounded theory approach, a group of homogeneous sample is theoretically located to help the researcher form the theory. This is called *theoretical sampling*. 
 
 We explained our sampling approach in the section *Methodology*. 
 
