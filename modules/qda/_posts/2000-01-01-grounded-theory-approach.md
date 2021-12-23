@@ -6,15 +6,13 @@ title: Grounded Theory Approach
 
 <br>
 
-Following Creswell (2007, p. 64-67), the procedures for conducting grounded theory research is illustrated below.
-
-<br>
-
 ### What perspective and approach to take?
 
 First, think about if a theory or an approach is suited to study the research problem. 
 
 In our case, we take the grounded theory approach to study vaccination expectations of our sample of universities, which have all participated in a process in response to emergent situations in the COVID-19 pandemic and updated policies. The goal is to form an explanation of the causes and consequences of those various vaccination expectations.
+
+Following Creswell (2007, p. 64-67), the procedures for conducting grounded theory research is illustrated below.
 
 <br>
 
