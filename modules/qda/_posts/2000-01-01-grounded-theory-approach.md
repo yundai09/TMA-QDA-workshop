@@ -35,15 +35,17 @@ The goal is to gather enough information to fully elaborate a theory, when the c
 
 <br>
 
-### Analysis
+### Coding and analysis
 
-The analysis of the data proceeds in stages. 
+We begin with close reading of texts and proceeds with analysis in stages. 
+
+We follow Deterding and Waters (2021) and Creswell (2007, p. 148-158, 160-163) to code and analyze our documents in this workshop.
 
 <br>
 
 #### Open coding
 
-Researchers begin with open coding to form major categories of information about the phenomenon being studied.
+Researchers begin with open coding to form major categories of information about the phenomenon being studied. We use index codes for data reduction and retrieval.
 
 <br>
 
@@ -67,7 +69,15 @@ During coding, researchers may write down ideas about evolving theory throughout
 
 <br>
 
-### What's next?
+#### What's next?
 The theory generated from the above process may be tested later with quantitative data to determine if it can be generalized to a population. 
 
 Alternatively, the study may end at this point with the generation of a theory as the goal of the research.
+
+<br>
+
+### Validation and evaluation
+
+Creswell (2007, p. 201)
+
+Lincoln and Guba's Evaluative Criteria: http://www.qualres.org/HomeLinc-3684.html
