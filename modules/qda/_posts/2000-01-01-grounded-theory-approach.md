@@ -10,7 +10,7 @@ title: Grounded Theory Approach
 
 First, think about if a theory or an approach is suited to study the research problem. 
 
-In our case, we take the grounded theory approach to study vaccination expectations of our sample of universities, which have all participated in a process in response to emergent situations in the COVID-19 pandemic and updated policies. The goal is to form an explanation of the causes and consequences of those various vaccination expectations.
+In our case, we take the grounded theory approach to study vaccination expectations of our sampled universities in response to emergent situations in the COVID-19 pandemic. The goal is to form an explanation of the causes and consequences of various vaccination expectations.
 
 Following Creswell (2007, p. 64-67), the procedures for conducting grounded theory research is illustrated below.
 
@@ -35,15 +35,15 @@ The goal is to gather enough information to fully elaborate a theory, when the c
 
 ### Coding and analysis
 
-We begin with close reading of texts and proceeds with analysis in stages. 
+We begin with close reading of texts and follow Deterding and Waters (2021) and Creswell (2007, p. 148-158, 160-163) to code and analyze our documents in this workshop.
 
-We follow Deterding and Waters (2021) and Creswell (2007, p. 148-158, 160-163) to code and analyze our documents in this workshop.
+The goal of coding is to reduce the data into themes.
 
 <br>
 
 #### Open coding
 
-Researchers begin with open coding to form major categories of information about the phenomenon being studied. We use index codes for data reduction and retrieval.
+We begin with open coding to form major categories of information about the phenomenon being studied. We use index codes for data reduction and retrieval.
 
 <br>
 
