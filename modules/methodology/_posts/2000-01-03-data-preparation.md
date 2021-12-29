@@ -2,14 +2,18 @@
 title: Data preparation
 ---
 
-## Check the data
+## Data preparation
+
+<br>
+
+#3# Check the data
 Are the texts we collected clear about vaccination requirements?  If not, we need to find additional documents as evidence to support our guesses. 
 
 In other words, have we collected everything we need? 
 
 <br>
 
-## Clean the data
+### Clean the data
 
 Before the texts can be analyzed in any software, we need to acquire the texts. In our case, this means we need to download these community messages from their web pages. 
 
@@ -19,7 +23,7 @@ Of course, in real world, this is going to be much more complicated. For instanc
 
 <br>
 
-## It's not a linear process! 
+### It's not a linear process! 
 
 Data collection, data preparation, and later data analysis is NOT a linear process. These steps may be interrelated and happen simultaneously. 
 
