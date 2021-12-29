@@ -69,6 +69,22 @@ During coding, researchers may write down ideas about evolving theory throughout
 
 <br>
 
+### Evaluation
+
+Strauss and Corbin (1990) identified seven criteria to judge the quality of a grounded theory study (Creswell, 2007, p. 216). 
+
+* How was the original sample selected? What grounds?
+* What major categories emerged?
+* What were some of the events, incidents, actions, and so on (as indicators) that pointed to some of these major categories?
+* On the basis of what categories di4 theoretical sampling proceed? Guide data collection? Was it representative of the categories?
+* What were some of the hypotheses pertaining to conceptual relations (that is, among categories), and on what grounds were they formulated and tested?
+* Were there instances when hypotheses did not hold up against what was actually seen? How were these discrepancies accounted for? How did they affect the hypotheses?
+* How and why was the core category selected (sudden, gradual, difficult, easy)? On what grounds? 
+
+Strauss, A., & Corbin, J. (1990). *Basics of qualitative research: Grounded theory procedures and techniques.* Newbury Park, CA: Sage.
+
+<br>
+
 ### What's next?
 The theory generated from the above process may be tested later with quantitative data to determine if it can be generalized to a population. 
 
