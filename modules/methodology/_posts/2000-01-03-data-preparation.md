@@ -21,4 +21,6 @@ Of course, in real world, this is going to be much more complicated. For instanc
 
 ## It's not a linear process! 
 
-Data collection, data preparation, and later data analysis is NOT a linear process. These steps may be interrelated and happen simultaneously. Steps of collecting data, checking data and refining data may be repeated. The criteria of completing these steps may be constantly challenged, and updated.  
+Data collection, data preparation, and later data analysis is NOT a linear process. These steps may be interrelated and happen simultaneously. 
+
+Steps of collecting data, checking data and refining data may be repeated. The criteria of completing these steps may be constantly challenged, and updated. For instance, when analyzing qualitative data, researchers may attempt to saturate the codes/categories they use to aid analysis; they may continue collecting data (e.g. interviewing) until the new information obtained does not further provide insight into the category (Creswell, 2007, p. 160).
