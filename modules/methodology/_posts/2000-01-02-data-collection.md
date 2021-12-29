@@ -2,7 +2,11 @@
 title: Data Collection
 ---
 
-## Type of texts
+## Data collection
+
+<br>
+
+### Type of texts
 
 Vaccination expectations may be conveyed in various formats of texts. It could be *vaccination FAQs*, usually on the webpages of the departmemts of health and wellness, or *news articles*.
 
@@ -12,7 +16,7 @@ Occasionally, when a community message is not clear enough about the university'
 
 <br>
 
-## Sampling
+### Sampling
 
 We take a sample from all community messages following the procedures below.
 
@@ -28,7 +32,7 @@ Note: Among the top 50 universities, we only got 10 universities residing in "re
 
 <br>
 
-## Document level information
+### Document level information
 
 One university can have more than one community messages because a university may separately send messages to students and employees, or update the previous document. The unit of analysis in this workshop is **document**, not university, which is each community message. 
 
