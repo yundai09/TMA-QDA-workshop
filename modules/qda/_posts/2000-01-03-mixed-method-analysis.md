@@ -2,7 +2,11 @@
 title: Mixed method analysis
 ---
 
-## Counting codes
+## Mixed methods analysis
+
+<br>
+
+### Counting codes
 
 frequency of occurrence
 
@@ -12,7 +16,7 @@ number of text chunks associated with each code as an indicator of participant i
 
 <br>
 
-## Building relationships among codes
+### Building relationships among codes
 
 We may develop hypotheses or propositions to specify the relationship among categories, or variables. 
 
