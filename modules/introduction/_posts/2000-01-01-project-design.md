@@ -4,6 +4,8 @@ title: Project design
 
 ## Project design and procedure
 
+<br>
+
 The design of this research project is illustrated below. It showcases the entire workflow of the project.
 
 However, the focus of this workshop is on *analyzing data*. 
