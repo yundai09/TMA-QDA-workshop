@@ -22,7 +22,7 @@ title: Limitations
  
 ### Analysis
 
-* We only read the documents, but didn't examine the social, political and institutional contexts of vaccination expectations.
+* We only read the documents, but didn't examine the social, political and institutional contexts of vaccination expectations. These could be narratives on COVID as a political or public health issue, debates on state regulation vs freedom, and the eonomic costs on higher education institutions (e.g. decreased number of international students).
 * In our mixed methods analysis, we stopped at the summary statistics. What's beyond the summary statistics?
 * Our unit of analysis is document, not university, and therefore metrics are not weighted when a university has more than one document.
 
