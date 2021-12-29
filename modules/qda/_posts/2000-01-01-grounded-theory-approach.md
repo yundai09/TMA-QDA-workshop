@@ -69,15 +69,7 @@ During coding, researchers may write down ideas about evolving theory throughout
 
 <br>
 
-#### What's next?
+### What's next?
 The theory generated from the above process may be tested later with quantitative data to determine if it can be generalized to a population. 
 
 Alternatively, the study may end at this point with the generation of a theory as the goal of the research.
-
-<br>
-
-### Validation and evaluation
-
-Creswell (2007, p. 201)
-
-Lincoln and Guba's Evaluative Criteria: http://www.qualres.org/HomeLinc-3684.html
