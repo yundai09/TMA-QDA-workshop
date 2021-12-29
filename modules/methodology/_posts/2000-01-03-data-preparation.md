@@ -21,6 +21,4 @@ Of course, in real world, this is going to be much more complicated. For instanc
 
 ## It's not a linear process! 
 
-Data prepartion for data analysis is NOT a linear process. Steps of collecting data, checking data and refining data may be repeated. The criteria of completing these steps may be constantly challenged, and updated.
-
-
+Data collection, data preparation, and later data analysis is NOT a linear process. These steps may be interrelated and happen simultaneously. Steps of collecting data, checking data and refining data may be repeated. The criteria of completing these steps may be constantly challenged, and updated.  
