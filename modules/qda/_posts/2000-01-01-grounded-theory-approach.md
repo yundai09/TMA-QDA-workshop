@@ -39,11 +39,13 @@ We begin with close reading of texts and follow Deterding and Waters (2021) and 
 
 The core elements of qualitative data analysis is "coding the data, combining the codes into broader categories or themes, and displaying and making comparisons in the data graphs, tables, and charts" (Creswell, 2007, p. 148).
 
+What to look for in coding? We may look for processes, actions, or interactions. We may also look for what is excluded, disruptions and contradictions in the texts, or metaphors (Creswell, 2007, p.154).
+
 <br>
 
 #### Open coding
 
-We begin with open coding to form major categories of information about the phenomenon being studied. The goal of coding is to reduce the data into themes and assign names for those themes. 
+We begin with open coding to form major categories of information about the phenomenon being studied. The goal of coding is to reduce the data into themes and label those themes.
 
 <br>
 
