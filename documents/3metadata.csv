@@ -1,0 +1,38 @@
+document ID,university ID,World University Rank 2022,US Rank 2022,University,City,County,Biden (%),Trump (%),State,R/B,vaccination policy URL,published date,subject
+1,1,9,7,Yale University,New Haven,New Haven,58.06,40.66,Connecticut,blue,https://covid19.yale.edu/community-messages/requiring-students-be-vaccinated-against-covid-19,04/19/2021,Requiring Students to be Vaccinated Against COVID-19
+2,2,51,24,Washington University in St Louis,St. Louis,Independent city,82.28,16.05,Missouri,red,https://covid19.wustl.edu/covid-19-vaccine-requirement/,04/28/2021,COVID-19 vaccine requirement | WashU Together: COVID-19 Response
+3,3,105,39,Purdue University West Lafayette,West Lafayette,Tippecanoe,49.02,48.41,Indiana,red,https://mailimages.purdue.edu/vo/?FileID=729db69c-f307-4fef-8157-19484a3d51fe&m=3c9cf18a-ffaf-4b67-afc6-aaf31c49fc1c&MailID=41321146&listid=116342,05/11/2021,Role of COVID-19 vaccine in fall 2021 operations
+4,1,9,7,Yale University,New Haven,New Haven,58.06,40.66,Connecticut,blue,https://president.yale.edu/president/statements/requiring-faculty-staff-and-trainees-be-vaccinated-against-covid-19,05/14/2021,"Requiring faculty, staff, and trainees to be vaccinated against COVID-19"
+5,4,2,1,Harvard University,Cambridge,Middlesex,71.83,26.41,Massachusetts,blue,https://www.harvard.edu/president/news/2021/covid-19-update-5-28-21/,05/28/2021,COVID-19 Updates - Harvard University President
+6,5,113,40,Vanderbilt University,Nashville,Davidson,64.52,32.38,Tennessee,red,https://news.vanderbilt.edu/2021/06/09/covid-19-vaccination-requirement-university-issues-additional-guidance/,06/09/2021,COVID-19 vaccination requirement: University issues additional guidance
+7,6,20,12,"University of California, Los Angeles",Los Angeles,Los Angeles,71.04,26.87,California,blue,https://covid-19.ucla.edu/uc-announces-covid-19-vaccination-requirements/,06/10/2021,UC announces COVID19 vaccination requirements - COVID19 and vaccine resources
+8,7,132,45,Arizona State University (Temple),Tempe,Maricopa,50.32,48.14,Arizona,blue,https://president.asu.edu/statements/arizona-state-university-statement-on-gov-ducey%E2%80%99s-executive-order-regarding-covid-19,06/15/2021,"Arizona State University statement on Gov. Ducey’s
+
+executive order regarding COVID-19 vaccines for
+Arizona State University statement on Gov. Ducey‚Äôs executive order regarding COVID-19 vaccines for students
+"
+9,2,51,24,Washington University in St Louis,St. Louis,Independent city,82.28,16.05,Missouri,red,https://covid19.wustl.edu/covid-19-vaccine-requirement-for-faculty-staff-and-trainees/,06/15/2021,"COVID-19 vaccine requirement for faculty, staff and trainees | WashU Together: COVID-19 Response"
+10,8,23,14,Duke University,Durham,Durham,80.66,18.1,North Carolina,red,https://coronavirus.duke.edu/2021/06/covid-protocols-updated-for-2021-fall-semester/,06/29/2021,"COVID Protocols Updated for 2021 Fall Semester -
+
+COVID Protocols Updated for 2021 Fall Semester -
+
+Coronavirus Response"
+11,9,29,19,University of Washington,Seattle,King,75.45,22.38,Washington,blue,https://www.washington.edu/coronavirus/2021/07/07/changes-to-face-coverings-vaccination-requirements-and-other-covid-19-updates/,07/07/2021,"Changes to face coverings, vaccination requirements and other COVID-19 updates (Message to UW students and
+
+personnel)"
+12,10,126,42,Case Western Reserve University,Cleveland,Cuyahoga,66.54,32.41,Ohio,red,https://case.edu/covid19/covid-19-communications/vaccination-requirements-case-western-reserve-university,07/15/2021,"Vaccination Requirements for Case Western Reserve
+
+University | COVID19 | Case Western Reserve"
+13,11,140,47,University of Pittsburgh-Pittsburgh campus,Pittsburgh,Allegheny,59.61,39.23,Pennsylvania,blue,https://www.chancellor.pitt.edu/spotlight/pitt-s-virus-control-program-fall,07/23/2021,"Pitt’s Virus Control Program for the Fall | Office of the
+
+Chancellor"
+14,12,93,35,Michigan State University,East Lansing,Ingham,65.2,32.97,Michigan,blue,https://president.msu.edu/communications/messages-statements/2021_community_letters/2021-07-30-mask-vaccine-requirement.html,07/30/2021,"July 30, 2021: Updated COVID-19 requirements for the fall semester"
+15,13,45,21,Georgia Institute of Technology,Atlanta,Fulton County,72.59,26.2,Georgia,blue,https://health.gatech.edu/coronavirus/institute-operations#,08/02/2021,Preparing for Fall Semester
+16,14,154,50,University of Florida,Gainesville,Alachua,62.91,35.75,Florida,red,https://www.usf.edu/coronavirus/updates/08-09-21-updated-covid-19-guidance.aspx,08/09/2021,Updated COVID-19 guidance for the USF community
+17,15,136,46,Rice University,Houston,Harris,55.96,42.7,Texas,red,https://coronavirus.rice.edu/news/provost-fall-course-instruction,08/11/2021,From the Provost - Fall Course Instruction
+18,16,47,22,University of Texas at Austin,Austin,Travis,71.66,26.53,Texas,red,https://president.utexas.edu/messages-speeches-2021/update-on-our-fall-semester-plans,08/18/2021,Update on Our Fall Semester Plans
+19,17,85,33,Ohio State University (Main campus),Columbus,Franklin,64.92,33.52,Ohio,red,https://safeandhealthy.osu.edu/messages/2021/08/24/covid-19-vaccine-requirement,08/24/2021,COVID-19 vaccine requirement
+20,18,13,10,University of Pennsylvania,Philadelphia,Philadelphia,81.44,17.9,Pennsylvania,blue,https://coronavirus.upenn.edu/announcement/message-campus-community-start-fall-semester,08/25/2021,A Message to the Campus Community On the Start of the Fall Semester
+21,19,10,8,The University of Chicago,Chicago,Cook,74.35,24.05,Illinois,blue,https://provost.uchicago.edu/announcements/public-health-precautions-return-campus,08/26/2021,Public Health Precautions for Return to Campus
+22,8,23,14,Duke University,Durham,Durham,80.66,18.1,North Carolina,red,https://coronavirus.duke.edu/2021/08/covid-19-vaccination-a-condition-of-employment-for-university/,08/29/2021,COVID-19 Vaccination a Condition of Employment for University
+23,20,52,25,University of North Carolina at Chapel Hill,Chapel Hill,Durham,80.66,18.1,North Carolina,red,https://carolinatogether.unc.edu/unc-chapel-hill-covid-19-vaccine/,09/13/2021,COVID19 Vaccine - Carolina Together
